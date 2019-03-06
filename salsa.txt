@@ -1,0 +1,5 @@
+hot 45
+mild 23
+zesty 34
+medium 29
+sweet 10

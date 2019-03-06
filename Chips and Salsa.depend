@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1448989868 source:h:\codeblocks\chips and salsa\chipandsalsa.cpp
+	<string>
+	<fstream>
+	<iomanip>
+	<iostream>
+	<cstdlib>
+
